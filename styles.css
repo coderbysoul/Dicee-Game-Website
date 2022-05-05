@@ -33,9 +33,10 @@ img {
 }
 
 h5 {
-  
+  margin: 30px;
   font-family: 'Lobster', cursive;
-  font-size: 4rem;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
   color: #4ECCA3;
 }
 
